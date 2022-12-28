@@ -1,0 +1,27 @@
+.pic{
+    background-color: rgb(188, 242, 224);
+}
+.form{
+    border:solid 1px rgb(200, 197, 197);
+    padding:15px;
+}
+.button{
+    background-color: rgb(151, 170, 189);
+    border-radius:3px;
+    border-color: aliceblue;
+    padding-left:1em;
+    padding-right: 1em;
+}
+.para{
+    color: rgb(130, 128, 128);
+}
+.half1{ width:40%;
+    background-color:  rgb(206, 238, 238);
+}
+.half2{ width:60%;
+    background-color: rgb(206, 238, 238);
+    text-align: initial;
+}
+.img{
+    height:2em;
+}
